@@ -1,0 +1,27 @@
+{
+  "name": "easjbot",
+  "version": "1.0.0",
+  "description": "This is a test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "E. Junior",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "https": "^1.0.0",
+    "moment": "^2.19.0",
+    "neo4j": "^2.0.0-RC2",
+    "neo4j-driver": "^1.5.0",
+    "node-where": "^1.1.0",
+    "querystring": "^0.2.0",
+    "weather-js": "^2.0.0"
+  }
+}
